@@ -1,2 +1,2 @@
-# just-list-it-react
+# just-list-it-React
 now, list it!
